@@ -14,7 +14,7 @@
 
 <br><br>
 
-À propos · Stack · Projets · Services · Stats · Contact
+À propos · Stack · Projets · Services · Contact
 
 </div>
 👋 À propos de moi
@@ -37,24 +37,16 @@ Domaine	Technologies
 🎨 Frontend	<img src="https://skillicons.dev/icons?i=html,css,js" alt="frontend">
 🧰 Outils	<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="outils">
 🚀 Projets
-Projet	Type	Description	Technologies
-⭐ NOVABIT	🌐 Web	Catalogue de logiciels avec prix, descriptions et contacts, géré par un administrateur unique	Site web dynamique
-BouchPro	🖥️ Desktop	Gestion complète d'une boucherie : stock et ventes	Java Swing, SQLite
-Pièces détachées auto	🖥️ Desktop	Gestion d'un magasin de pièces automobiles	JavaFX, SQLite
-Distribution de viande	🌐 Web	Suivi des livraisons d'un fournisseur vers plusieurs clients	PHP, SQL
-Vente de véhicules	🌐 Web	Gestion du stock, des ventes et des clients	PHP, SQL
-Boutiques e-commerce	🌐 Web	Bijoux de luxe, produits artisanaux, vêtements	Web
-
-💡 Quand un projet est publié sur GitHub, ajoute son lien dans le nom : [BouchPro](https://github.com/belmokhtar_lounes/bouchpro)
-
+<!-- PROJET PRINCIPAL --> <table> <tr> <td align="center" colspan="2"> <h3>⭐ NOVABIT</h3> <b>Mon projet principal</b> · 🌐 Site web dynamique<br><br> Catalogue de logiciels avec <b>prix</b>, <b>descriptions</b> et <b>contacts</b>.<br> Tout se gère facilement depuis un espace administrateur unique.<br><br> <img src="https://img.shields.io/badge/Site_dynamique-4F8EF7?style=flat-square" alt="Site dynamique"> <img src="https://img.shields.io/badge/Catalogue-7C3AED?style=flat-square" alt="Catalogue"> <img src="https://img.shields.io/badge/Espace_admin-10B981?style=flat-square" alt="Admin"> </td> </tr> </table>
+🖥️ Applications desktop
+<table> <tr> <td width="50%" valign="top"> <h4>🥩 BouchPro</h4> Gestion complète d'une <b>boucherie</b> : stock, ventes et suivi de l'activité.<br><br> <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Swing"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> </td> <td width="50%" valign="top"> <h4>🔧 Pièces détachées auto</h4> Gestion d'un <b>magasin de pièces automobiles</b> : stock, ventes et clients.<br><br> <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX"> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> </td> </tr> </table>
+🌐 Sites web
+<table> <tr> <td width="50%" valign="top"> <h4>🚚 Distribution de viande</h4> Suivi des <b>livraisons</b> d'un fournisseur vers plusieurs clients à Alger.<br><br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> </td> <td width="50%" valign="top"> <h4>🏍️ Vente de véhicules</h4> Gestion du <b>stock</b>, des <b>ventes</b> et des <b>clients</b>, avec un design moderne.<br><br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"> </td> </tr> <tr> <td colspan="2" valign="top"> <h4>🛒 Boutiques e-commerce</h4> Boutiques en ligne pour le marché algérien : <b>bijoux de luxe</b>, <b>produits artisanaux</b> et <b>vêtements</b>.<br><br> <img src="https://img.shields.io/badge/E--commerce-F59E0B?style=flat-square" alt="E-commerce"> <img src="https://img.shields.io/badge/Web-4F8EF7?style=flat-square" alt="Web"> </td> </tr> </table>
 💼 Ce que je propose
 🖥️ Application de gestion sur mesure (magasin, stock, ventes, clients)
 🌐 Site web dynamique avec espace d'administration
 🛒 Boutique en ligne adaptée au marché algérien
 🎨 Design moderne et facile à utiliser
-<div align="center">
-📊 Statistiques GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=belmokhtar_lounes&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belmokhtar_lounes&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="langages"> </div>
 📫 Me contacter
 
 Un projet en tête ? Écris-moi, je réponds en arabe, français ou anglais.
