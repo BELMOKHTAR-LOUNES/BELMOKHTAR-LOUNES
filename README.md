@@ -169,16 +169,6 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🏺 Tradis Artisanat</h3>
-      <p><strong>Artisanat traditionnel algérien en ligne</strong></p>
-      <p>Fiches produits avec photos, panier et commandes, avis clients et livraison calculée par wilaya, sur une architecture MVC rigoureuse avec couche Repository.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP%20MVC-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP MVC" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=D9541E" alt="Repository" />
-      </p>
-    </td>
   </tr>
 </table>
 
