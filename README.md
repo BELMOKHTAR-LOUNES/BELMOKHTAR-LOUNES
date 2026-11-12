@@ -61,7 +61,7 @@
         et à l'expérience utilisateur.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/6%2B%20ans-0D1117?style=flat-square&logo=clockify&logoColor=D9541E" alt="6+ ans d'expérience" />
+        <img src="https://img.shields.io/badge/6%2B%20ans-0D1117?style=flat-square&logo=clockify&logoColor=D9541E" alt="2+ ans d'expérience" />
         <img src="https://img.shields.io/badge/10%20projets-0D1117?style=flat-square&logo=github&logoColor=D9541E" alt="10 projets" />
         <img src="https://img.shields.io/badge/Amazigh%20%C2%B7%20Arabe%20%C2%B7%20Fran%C3%A7ais-0D1117?style=flat-square&logo=googletranslate&logoColor=D9541E" alt="Langues" />
       </p>
