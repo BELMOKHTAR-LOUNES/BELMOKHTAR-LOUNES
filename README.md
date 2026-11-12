@@ -160,13 +160,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>👗 Atlas Mode</h3>
-      <p><strong>Boutique de vêtements pour le marché algérien</strong></p>
-      <p>Catalogue multilingue (français / arabe RTL / anglais), commande sans compte, paiement à la livraison dans les 58 wilayas avec tarifs par wilaya, codes promo, avis clients, liste de souhaits et back-office complet (19 tables).</p>
+      <h3>🏺 Tradis Artisanat</h3>
+      <p><strong>Artisanat traditionnel algérien en ligne</strong></p>
+      <p>Fiches produits avec photos, panier et commandes, avis clients et livraison calculée par wilaya, sur une architecture MVC rigoureuse avec couche Repository.</p>
       <p>
-        <img src="https://img.shields.io/badge/PHP%208.1%20MVC-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.1 MVC" />
+        <img src="https://img.shields.io/badge/PHP%20MVC-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP MVC" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=D9541E" alt="Repository" />
       </p>
     </td>
   </tr>
