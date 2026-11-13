@@ -15,11 +15,11 @@
   src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,45:161B22,100:D9541E&height=240&section=header&text=Lounes%20Belmokhtar&fontSize=56&fontColor=F3EEE3&animation=twinkling&fontAlignY=40&desc=D%C3%A9veloppeur%20Web%20%26%20Desktop%20%E2%80%A2%20Cr%C3%A9ateur%20de%20NOVABIT&descAlignY=62&descSize=17"
   width="100%" alt="Lounes Belmokhtar — Développeur Web & Desktop" />
 
-<!-- Texte animé (machine à écrire) -->
+<!-- Texte animé (machine à écrire) — style terminal, texte personnel -->
 <a href="https://github.com/BELMOKHTAR-LOUNES">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=3200&pause=900&color=D9541E&center=true&vCenter=true&width=900&lines=Je+transforme+des+id%C3%A9es+en+applications+web+%26+desktop;PHP+8+%E2%80%A2+MySQL+%E2%80%A2+Java+%E2%80%A2+JavaFX;Avec+moi%2C+tout+est+facile+d%27un+clic"
-    alt="PHP 8 • MySQL • Java • JavaFX" />
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=D9541E&center=true&vCenter=true&width=880&lines=Lounes+Belmokhtar+%E2%80%94+D%C3%A9veloppeur+Web+%26+Desktop;PHP+8+%C2%B7+MySQL+%C2%B7+Java+21+%C2%B7+JavaFX;Je+transforme+des+id%C3%A9es+en+applications+fiables;Avec+moi%2C+tout+est+facile+d%27un+clic"
+    alt="Lounes Belmokhtar — Développeur Web & Desktop" />
 </a>
 
 <br/><br/>
@@ -61,8 +61,8 @@
         et à l'expérience utilisateur.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/6%2B%20ans-0D1117?style=flat-square&logo=clockify&logoColor=D9541E" alt="2+ ans d'expérience" />
-        <img src="https://img.shields.io/badge/10%20projets-0D1117?style=flat-square&logo=github&logoColor=D9541E" alt="10 projets" />
+        <img src="https://img.shields.io/badge/2%20ans-0D1117?style=flat-square&logo=clockify&logoColor=D9541E" alt="2 ans d'expérience" />
+        <img src="https://img.shields.io/badge/9%20projets-0D1117?style=flat-square&logo=github&logoColor=D9541E" alt="9 projets" />
         <img src="https://img.shields.io/badge/Amazigh%20%C2%B7%20Arabe%20%C2%B7%20Fran%C3%A7ais-0D1117?style=flat-square&logo=googletranslate&logoColor=D9541E" alt="Langues" />
       </p>
     </td>
@@ -159,7 +159,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🏺 Tradis Artisanat</h3>
       <p><strong>Artisanat traditionnel algérien en ligne</strong></p>
       <p>Fiches produits avec photos, panier et commandes, avis clients et livraison calculée par wilaya, sur une architecture MVC rigoureuse avec couche Repository.</p>
