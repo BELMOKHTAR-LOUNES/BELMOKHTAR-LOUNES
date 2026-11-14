@@ -12,11 +12,10 @@
 
 <!-- En-tête 3D animé -->
 <img
-  src="https://github.com/BELMOKHTAR-LOUNES/images_de_profile/blob/main/Gemini_Generated_Image_oku2pdoku2pdoku2.jpg"
-  width="100%" alt="Lounes Belmokhtar — Développeur Web & Desktop" />
+  src="https://github.com/BELMOKHTAR-LOUNES/images_de_profile/blob/main/avatar-anime.svg"
+  width="220" height="220"
+  alt="Lounes Belmokhtar — photo de profil" />
 
-<!-- Texte animé (machine à écrire) — style terminal, texte personnel -->
-<a href="https://github.com/BELMOKHTAR-LOUNES">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=D9541E&center=true&vCenter=true&width=880&lines=Lounes+Belmokhtar+%E2%80%94+D%C3%A9veloppeur+Web+%26+Desktop;PHP+8+%C2%B7+MySQL+%C2%B7+Java+21+%C2%B7+JavaFX;Je+transforme+des+id%C3%A9es+en+applications+fiables;Avec+moi%2C+tout+est+facile+d%27un+clic"
     alt="Lounes Belmokhtar — Développeur Web & Desktop" />
