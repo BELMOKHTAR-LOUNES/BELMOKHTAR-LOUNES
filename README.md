@@ -12,7 +12,7 @@
 
 <!-- En-tête 3D animé -->
 <img
-  src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,45:161B22,100:D9541E&height=240&section=header&text=Lounes%20Belmokhtar&fontSize=56&fontColor=F3EEE3&animation=twinkling&fontAlignY=40&desc=D%C3%A9veloppeur%20Web%20%26%20Desktop%20%E2%80%A2%20Cr%C3%A9ateur%20de%20NOVABIT&descAlignY=62&descSize=17"
+  src="[https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,45:161B22,100:D9541E&height=240&section=header&text=Lounes%20Belmokhtar&fontSize=56&fontColor=F3EEE3&animation=twinkling&fontAlignY=40&desc=D%C3%A9veloppeur%20Web%20%26%20Desktop%20%E2%80%A2%20Cr%C3%A9ateur%20de%20NOVABIT&descAlignY=62&descSize=17](https://github.com/BELMOKHTAR-LOUNES/images_de_profile/blob/main/Gemini_Generated_Image_oku2pdoku2pdoku2.jpg)"
   width="100%" alt="Lounes Belmokhtar — Développeur Web & Desktop" />
 
 <!-- Texte animé (machine à écrire) — style terminal, texte personnel -->
